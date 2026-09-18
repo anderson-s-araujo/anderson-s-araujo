@@ -1,4 +1,4 @@
-### Olá! Sou o Anderson Silva de Araújo 👋
+### Olá! Sou o Anderson Silva de Araujo 👋
 
 Doutorando e Mestre em Informação e Comunicação em Saúde pelo PPGICS/Fiocruz, com período de investigação sanduíche na Universidade de Coimbra. Sou bibliotecário e docente, com foco na interseção entre Ciência da Informação, Ciência Aberta e Análise de Dados.
 
